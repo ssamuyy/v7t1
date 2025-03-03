@@ -32,4 +32,8 @@ public class Library {
         }
         return null;
     }
+
+    public ArrayList<Book> getBooks() {
+        return books;
+    }
 }
